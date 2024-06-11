@@ -9,9 +9,9 @@
   "keywords": [
     "json-server,heroku, node, REST API"
   ],
-  "author": "Linh Le",
+  "author": "Loc Vo",
   "license": "ISC",
   "dependencies": {
-    "json-server": "0.17.4"
+    "json-server": "1.0.0-beta.0"
   }
 }
